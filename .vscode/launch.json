@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Biblioteca",
+            "request": "launch",
+            "mainClass": "Biblioteca",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "prediciendoEventos",
+            "request": "launch",
+            "mainClass": "Complementarios.prediciendoEventos",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XVIII",
+            "request": "launch",
+            "mainClass": "XVIII",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XVII",
+            "request": "launch",
+            "mainClass": "XVII",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XVI",
+            "request": "launch",
+            "mainClass": "XVI",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XV",
+            "request": "launch",
+            "mainClass": "XV",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XIV",
+            "request": "launch",
+            "mainClass": "XIV",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XIII",
+            "request": "launch",
+            "mainClass": "XIII",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XII",
+            "request": "launch",
+            "mainClass": "XII",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "XI",
+            "request": "launch",
+            "mainClass": "XI",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "X",
+            "request": "launch",
+            "mainClass": "X",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "IX",
+            "request": "launch",
+            "mainClass": "IX",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "VIII",
+            "request": "launch",
+            "mainClass": "VIII",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Auto",
+            "request": "launch",
+            "mainClass": "Auto",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "Clase3SistemaDeGestion.Application",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Biblioteca",
+            "request": "launch",
+            "mainClass": "Complementario.Biblioteca",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "I",
+            "request": "launch",
+            "mainClass": "I",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "II",
+            "request": "launch",
+            "mainClass": "II",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "III",
+            "request": "launch",
+            "mainClass": "III",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "IV",
+            "request": "launch",
+            "mainClass": "IV",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Liga",
+            "request": "launch",
+            "mainClass": "Liga",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "MainEdificio",
+            "request": "launch",
+            "mainClass": "MainEdificio",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Modelos.App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Circulo",
+            "request": "launch",
+            "mainClass": "Modelos.Circulo",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Rectangulo",
+            "request": "launch",
+            "mainClass": "Modelos.Rectangulo",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "Modelos.Triangulo",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Plano",
+            "request": "launch",
+            "mainClass": "Plano.Plano",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Rectangulo(1)",
+            "request": "launch",
+            "mainClass": "Rectangulo",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "V",
+            "request": "launch",
+            "mainClass": "V",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "VI",
+            "request": "launch",
+            "mainClass": "VI",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "VII",
+            "request": "launch",
+            "mainClass": "VII",
+            "projectName": "POO_6fdd48b2"
+        }
+    ]
+}
