@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class Biblioteca {
+public class Main {
     public static void main(String[] args) {
         Revista revista1 = new Revista(1, 8, "Revista Actualidad");
         Revista revista2 = new Revista(2, 10, "Revista Historia");
