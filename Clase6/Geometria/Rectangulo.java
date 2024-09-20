@@ -1,3 +1,4 @@
+package clase6.Geometria;
 public class Rectangulo extends Figura implements Dibujable {
     private double largo;
     private double ancho;

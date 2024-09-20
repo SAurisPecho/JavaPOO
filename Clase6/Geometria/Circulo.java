@@ -1,3 +1,4 @@
+package clase6.Geometria;
 public class Circulo extends Figura implements Dibujable{
     private double radio;
 

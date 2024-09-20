@@ -1,8 +1,8 @@
-package Clase3SistemaDeGestion;
-import Clase3SistemaDeGestion.modelos.Empleado;
-
+package clase3SistemaDeGestion;
 import java.util.ArrayList;
 import java.util.Scanner;
+
+import clase3SistemaDeGestion.modelos.Empleado;
 
 public class Application {
 

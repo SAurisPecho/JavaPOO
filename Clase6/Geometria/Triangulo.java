@@ -1,3 +1,4 @@
+package clase6.Geometria;
 public class Triangulo extends Figura implements Dibujable {
     private double base;
     private double altura;

@@ -1,4 +1,4 @@
-package Complementario;
+package clase2.Complementario;
 
 public class Libro {
     

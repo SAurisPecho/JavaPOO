@@ -1,3 +1,4 @@
+package clase1;
 import java.util.Scanner;
 
 public class Rectangulo {

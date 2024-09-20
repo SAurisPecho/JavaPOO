@@ -1,3 +1,4 @@
+package clase5.Mascotas;
 public class Gato extends Animal {
     
     private String color;

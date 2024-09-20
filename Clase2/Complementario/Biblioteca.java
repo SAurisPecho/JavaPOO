@@ -1,4 +1,4 @@
-package Complementario;
+package clase2.Complementario;
 import java.util.Scanner;
 
 public class Biblioteca {

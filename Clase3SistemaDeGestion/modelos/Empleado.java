@@ -1,4 +1,4 @@
-package Clase3SistemaDeGestion.modelos;
+package clase3SistemaDeGestion.modelos;
 import java.util.ArrayList;
 import java.util.Scanner;
 

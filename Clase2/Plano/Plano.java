@@ -1,4 +1,4 @@
-package Plano;
+package clase2.Plano;
 import java.util.Scanner;
 
 public class Plano {

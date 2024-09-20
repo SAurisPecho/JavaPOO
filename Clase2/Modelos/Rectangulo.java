@@ -1,4 +1,4 @@
-package Modelos;
+package clase2.Modelos;
 import java.util.Scanner;
 
 public class Rectangulo {

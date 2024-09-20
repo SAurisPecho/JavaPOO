@@ -1,3 +1,4 @@
+package clase1;
 public class Persona {
     String nombre;
     Integer edad;

@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "clase8.complementario1.App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "clase8.gestionPedidos.App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "clase8.colores.Application",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "clase8.Colores.Application",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Semana",
+            "request": "launch",
+            "mainClass": "Semana",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
             "name": "Biblioteca",
             "request": "launch",
             "mainClass": "Biblioteca",

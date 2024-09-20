@@ -1,3 +1,4 @@
+package clase1;
 public class Main {
     public static void main(String[] args) {
         Persona num1 = new Persona();

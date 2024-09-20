@@ -1,3 +1,4 @@
+package clase5.Mascotas;
 public class Animal {
     
     protected String nombre;
