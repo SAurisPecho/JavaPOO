@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalabraClave",
+            "request": "launch",
+            "mainClass": "clase9.complementario2.PalabraClave",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "clase9.complementario1.App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "clase9.gestiondeCuentas.App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "clase9.saludoUsuario.App",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "clase8.complementario1.App",
