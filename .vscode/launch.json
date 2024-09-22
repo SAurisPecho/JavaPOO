@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "clase10.Main",
+            "projectName": "POO_6fdd48b2"
+        },
+        {
+            "type": "java",
             "name": "PalabraClave",
             "request": "launch",
             "mainClass": "clase9.complementario2.PalabraClave",
